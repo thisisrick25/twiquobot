@@ -1,4 +1,4 @@
-# Twitter bot to tweet tech quotes# Twitter Quote Bot
+# Twitter Quote Bot
 
 A bot to tweet quote using python and [tweepy](https://github.com/tweepy/tweepy).
 
