@@ -19,7 +19,7 @@ Next create a [Twitter Developer](https://developer.twitter.com/) account to get
 ```
 
 ## Contributing
-Not open for contributions.
+[contributions](https://github.com/thisisrick25/twitter-quote-bot/blob/main/CONTRIBUTING.md)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
